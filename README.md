@@ -3,6 +3,11 @@
 ## Sobre Mim
 Sou um entusiasta de dados apaixonado por transformar números em insights e resolução de problemas. Com uma mistura de curiosidade e habilidades analíticas, estou constantemente explorando conjuntos de dados para descobrir padrões e tendências que sejam valiosas para o projeto.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgusPortal&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 ## Habilidades
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
