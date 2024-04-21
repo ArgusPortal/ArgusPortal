@@ -12,10 +12,10 @@ Sou um Analista de Dados buscando transformar números em insights e resolução
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg">
 </div>
