@@ -6,19 +6,20 @@ Sou um Analista de Dados buscando transformar números em insights e resolução
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgusPortal&layout=compact&langs_count=6&theme=algolia"/>
+  <img align="center" alt="Rafa-Csharp" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgusPortal&layout=compact&langs_count=6&theme=algolia"/>
 </div> 
 
 ## Habilidades
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/354428/tableau-icon.svg">
+  <img align="center" alt="Rafa-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="45" width="50" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://www.svgrepo.com/show/354428/tableau-icon.svg">
 </div>
 <br>
 
