@@ -3,7 +3,7 @@
 ## Sobre Mim
 Analista de Dados apaixonado por transformar dados complexos em insights estratégicos e soluções de negócio. Com formação acadêmica diversificada e experiência prática em governança de dados na área da saúde, combino habilidades técnicas e pensamento analítico para descobrir padrões significativos que impulsionam decisões baseadas em evidências.
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   
 <div>
   <img align="center" alt="Rafa-Csharp" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgusPortal&layout=compact&langs_count=6&theme=algolia"/>
