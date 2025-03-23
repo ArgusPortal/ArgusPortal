@@ -1,7 +1,7 @@
 # Olá! 👋
 
 ## Sobre Mim
-Analista de Dados apaixonado por transformar dados complexos em insights estratégicos e soluções de negócio. Com formação acadêmica diversificada e experiência prática em governança de dados na área da saúde, combino habilidades técnicas e pensamento analítico para descobrir padrões significativos que impulsionam decisões baseadas em evidências.
+Analista de Dados transformando dados complexos em insights estratégicos e soluções de negócio. Com formação acadêmica diversificada e experiência prática em governança de dados na área da saúde, combino habilidades técnicas e pensamento analítico para descobrir padrões significativos que impulsionam decisões baseadas em evidências.
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   
