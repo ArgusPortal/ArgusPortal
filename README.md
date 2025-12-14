@@ -1,7 +1,11 @@
 # Olá! 👋
 
 ## Sobre Mim
-Analista de Dados transformando dados complexos em insights estratégicos e soluções de negócio. Com formação acadêmica diversificada e experiência prática em governança de dados na área da saúde, combino habilidades técnicas e pensamento analítico para descobrir padrões significativos que impulsionam decisões baseadas em evidências.
+Coordenador de Data Science com background em healthcare. Responsável pelo desenvolvimento e manutenção da infraestrutura analítica (Data Warehouse, pipelines ETL, BI) em ambiente de saúde de larga escala.
+
+Experiência técnica: Data Engineering (PostgreSQL, Python), Business Intelligence (Power BI), arquitetura de dados e otimização de performance em ambientes de healthcare.
+
+Também atuo na identificação de oportunidades analíticas junto às áreas de negócio, traduzindo requisitos em soluções técnicas viáveis e escaláveis.
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArgusPortal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   
